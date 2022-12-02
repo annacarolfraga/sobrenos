@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #ff9a00;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.nome1 {
+  margin-left: 130px;
+}
+.nome2 {
+  margin-left: 500px;
+  margin-top: -70px;
+}
+.nome3 {
+  margin-left: 850px;
+  margin-top: -70px;
+}
+.nome4 {
+  margin-left: 1170px;
+  margin-top: -63px;
+}
